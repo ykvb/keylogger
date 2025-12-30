@@ -1,0 +1,4 @@
+pyHook==1.1.1
+pythoncom
+pywin32
+psutil>=5.8.0
