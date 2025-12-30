@@ -11,7 +11,7 @@ Use responsibly! - Only monitor systems you own or have permission to monitor.
 ## Installation
 ```
 # Clone this repo
-git clone https://github.com/yourusername/input-monitor.git
+git clone https://github.com/ykvb/keylogger.git
 cd input-monitor
 
 # Install dependencies
@@ -33,6 +33,4 @@ python main.py
 • Open a Pull Request
 ```
 ## License
-```
 This project is open source and available under the MIT License.
-```
